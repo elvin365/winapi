@@ -1,0 +1,6 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  DelayLoadApp.cpp
+c:\users\elvin\source\repos\дополнительные материалы\20-delayloadapp\delayloadapp.cpp(214): error C2373: __pfnDliNotifyHook2: переопределение; различные модификаторы типа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\delayimp.h(134): note:  см. объявление "__pfnDliNotifyHook2"
+c:\users\elvin\source\repos\дополнительные материалы\20-delayloadapp\delayloadapp.cpp(215): error C2373: __pfnDliFailureHook2: переопределение; различные модификаторы типа
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\delayimp.h(141): note:  см. объявление "__pfnDliFailureHook2"

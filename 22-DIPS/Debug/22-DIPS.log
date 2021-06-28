@@ -1,0 +1,2 @@
+﻿DIPS.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  22-DIPS.vcxproj -> C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\22-DIPS.exe

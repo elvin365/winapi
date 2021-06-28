@@ -1,0 +1,4 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  VMStat.cpp
+VMStat.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  14-VMStat.vcxproj -> C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\14-VMStat.exe

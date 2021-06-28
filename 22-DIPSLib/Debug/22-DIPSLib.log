@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  DIPSLib.cpp
+DIPSLib.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+     Создается библиотека C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\22-DIPSLib.lib и объект C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\22-DIPSLib.exp
+  22-DIPSLib.vcxproj -> C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\22-DIPSLib.dll

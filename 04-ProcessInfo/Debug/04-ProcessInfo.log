@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  ProcessInfo.cpp
+c:\users\elvin\source\repos\дополнительные материалы\04-processinfo\processinfo.cpp(346): warning C4456: объявление "fOk" скрывает предыдущее локальное объявление
+  c:\users\elvin\source\repos\дополнительные материалы\04-processinfo\processinfo.cpp(341): note:  см. объявление "fOk"
+c:\users\elvin\source\repos\дополнительные материалы\04-processinfo\processinfo.cpp(815): warning C4456: объявление "fOk" скрывает предыдущее локальное объявление
+  c:\users\elvin\source\repos\дополнительные материалы\04-processinfo\processinfo.cpp(806): note:  см. объявление "fOk"
+ProcessInfo.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  04-ProcessInfo.vcxproj -> C:\Users\Elvin\source\repos\Дополнительные материалы\Debug\04-ProcessInfo.exe
